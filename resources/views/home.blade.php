@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Account Balance: 
                 </div>
             </div>
         </div>
